@@ -3,4 +3,4 @@ Este es un archivo de prueba
 Para el sistema de control de cambios
 
 
-estos son los cambios que debe detectar git
+estos son los cambios que debe mirar git
